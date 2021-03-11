@@ -7,13 +7,8 @@
 
 
 int main()
-{/*
-	Planet Mars { "Mars", "Milky way", "Republic of Macedonia" };
-	Jedi Anakin { "Anakin", Rank::JediConsular, 12.1, Mars, "Spicies", "Comander" };
-	Anakin.Print();
-	*/
-
-	char planet[32];
+{
+    char planet[32];
 	char syst[32];
 	char rep[32];
 
